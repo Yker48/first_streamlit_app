@@ -71,5 +71,3 @@ if streamlit.button('Get Fruit Load List'):
     streamlit.text(back_from_function)
 
 streamlit.stop()
-
-
